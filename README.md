@@ -1,11 +1,17 @@
-# 네트워크프로그래밍_조효진
-### 강의 교안 정리본
-# Title
+# 자료구조
+## Title
 <details><summary>
-Chapter1 : Overview
+Chapter1 : 자료구조
 </summary><div markdown="1">
 
- 1. 네트워크 이해
- 1. 프로토콜(Protocol)
- 1. 네트워크 계층 구조
+ 1. 자료와 정보
+ 1. 자료처리와 자료구조
+ 1. 추상화
+ 1. 자료구조의 형태
+ 1. 자료구조의 분류
+    1. 선형 구조
+    1. 비선형 구조
  </div></details>
+<details><summary>
+Chapter2 : 선형 구조
+</summary><div markdown="1">
