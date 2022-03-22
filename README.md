@@ -81,3 +81,12 @@ Chapter4 : 비선형 구조 - 그래프(Graph)
     - [너비 우선 탐색(BFS, Breadth First Search)](#너비-우선-탐색bfs-breadth-first-search)
 
 </div></details>
+<details><summary>
+Chapter5 : 해싱(Hashing)
+</summary><div markdown="1">
+
+1. [해싱](#해싱)
+    - [해시 함수](#해시-함수)
+    - [충돌(Collision)](#충돌collision)
+2. [구현](#구현)
+</div></details>
